@@ -19,5 +19,5 @@ from subscribers.views import index
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path(r'^$', index),
+    path('', index),
 ]
