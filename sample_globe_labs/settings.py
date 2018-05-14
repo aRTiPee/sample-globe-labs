@@ -25,7 +25,7 @@ SECRET_KEY = '(+pf#i$vc445*(2i#c77+@2(8%bc!h+2hdshjt=a*bj6sr$&e='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sample-globe-labs.herokuapp.com',]
 
 
 # Application definition
