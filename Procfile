@@ -1,0 +1,1 @@
+web: gunicorn sample_globe_labs.wsgi
